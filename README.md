@@ -1,4 +1,3 @@
-# Tools-for-Data-Science_coursera
 # Final Assignment: Create and Share Your Jupyter Notebook
 
 ## Description
